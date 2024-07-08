@@ -1,0 +1,19 @@
+
+> frontend@0.0.0 dev
+> vite --host
+
+
+  VITE v4.5.3  ready in 412 ms
+
+  ➜  Local:   http://localhost:5173/
+  ➜  Network: http://172.31.25.200:5173/
+
+> frontend@0.0.0 dev
+> vite --host
+
+Port 5173 is in use, trying another one...
+
+  VITE v4.5.3  ready in 756 ms
+
+  ➜  Local:   http://localhost:5174/
+  ➜  Network: http://172.31.25.200:5174/
